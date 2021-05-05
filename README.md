@@ -1,10 +1,14 @@
-**** CODE is available on  master branch ****
-
-Clone the repo and move to the **master** branch
-git branch -m master
 
 
 # COVID-19 Vaccination Slot Booking Script
+
+
+**** CODE is available on  master branch ****
+Note :
+Clone the repo and move to the **master** branch
+
+git branch -m master
+
 
 This very basic CLI based script can be used to automate covid vaccination slot booking on Co-WIN Platform. 
 
